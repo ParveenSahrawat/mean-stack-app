@@ -1,0 +1,78 @@
+[
+    {
+        "location":{
+            "address":"Via Cavour 213, Rione Monti, 00184 Rome, Italy",
+            "coordinates":[41.894493,12.492259]
+        },
+            "stars":4,
+            "services":[
+                "Room service",
+                "Airport shuttle (surcharge)",
+                "24-hour front desk",
+                "Currency exchange",
+                "Tour desk",
+                "Luggage storage",
+                "Concierge service",
+                "Laundry",
+                "Dry cleaning",
+                "Ironing service",
+                "Meeting/banquet facilities",
+                "Business centre",
+                "VIP room facilities"
+                ],
+                "photos":[
+                    "/photos/hotel/grandhotelpalatino/1.jpg",
+                    "/photos/hotel/grandhotelpalatino/2.jpg",
+                    "/photos/hotel/grandhotelpalatino/3.jpg"
+                    ],
+                "reviews":[
+                    {
+                        "createdOn":"2018-04-16T08:53:14.601Z",
+                        "name":"Tamas",
+                        "id":"/user/tamas.json",
+                        "review":"Great hotel",
+                        "rating":4
+                    },
+                    {
+                        "createdOn":"2018-04-16T08:53:14.601Z",
+                        "name":"Steve","id":"/user/steve.json",
+                        "review":"Awesome place!",
+                        "rating":5
+                    }
+                ],
+                "rooms":[
+                    {
+                        "photos":[
+                            "/photos/room/grandhotelpalatino/2.jpg",
+                            "/photos/room/grandhotelpalatino/5.jpg"
+                        ],
+                        "type":"Standard Plus Double Room",
+                        "number":10,
+                        "description":"These are small rooms",
+                        "price":312.5},
+                        {
+                            "photos":["/photos/room/grandhotelpalatino/4.jpg",
+                                "/photos/room/grandhotelpalatino/6.jpg"
+                                ],
+                            "type":"Executive Double Room",
+                            "number":25,
+                            "description":"These are double rooms",
+                            "price":322.5},
+                            {
+                                "photos":[
+                                    "/photos/room/grandhotelpalatino/7.jpg"
+                                    ],
+                                "type":"Superior Double Room",
+                                "number":3,
+                                "description":"Amazing suites",
+                                "price":352.5
+                            },
+                            {
+                                "photos":[
+                                    "/photos/room/grandhotelpalatino/7.jpg"
+                                    ],
+                                "type":"Standard Plus Triple Room",
+                                "number":13,
+                                "description":"Amazing suites",
+                                "price":452.5
+                            },{"photos":["/photos/room/grandhotelpalatino/7.jpg"],"type":"Junior Suite","number":13,"description":"Very exclusive suites","price":1400}],"_id":"5accaf0ff72709bb01e34f7f","name":"Grand Hotel Palatino","description":"Just a 5-minute walk from the Coliseum and 100 metres from Cavour Metro, Grand Hotel Palatino is in Rome's Monti District. It offers an American bar and 2 restaurants. Wi-Fi is free throughout. Rooms at the Grand Hotel are air conditioned and come with a minibar and satellite TV. Some have views of Rome’s rooftops.\nLe Erbe restaurant offers international cuisine in elegant surroundings, while Le Spighe specialises in Roman dishes and classic Italian cooking. Breakfast starts at 06:30.\nThe Forum and the Parco di Traiano are both less than a 10-minute walk from the hotel. Termini Train Station is one metro stop away, as is Esquilino with its markets and many ethnic restaurants.\nRione Monti is a great choice for travellers interested in sightseeing, food and monuments.","currency":"€"}]
